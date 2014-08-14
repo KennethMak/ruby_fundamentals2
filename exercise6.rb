@@ -27,3 +27,9 @@ grocery_list.sort!
 grocery_list.pop
 
 grocery_print(grocery_list)
+
+students = {
+	cohort1: 34 students
+	cohort2: 42
+	cohort3: 22
+}
